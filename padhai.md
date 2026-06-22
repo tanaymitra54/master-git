@@ -11,3 +11,4 @@ git config --global core.editor "code --wait"
 ## its used  to set up teh default line ending for mac and windows to sync in one sma epage 
 git config --global core.autocrlf
 
+i am adding this from branch_1
